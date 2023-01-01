@@ -1,0 +1,15 @@
+{
+  "name": "picz-bulk-downloader",
+  "version": "1.0.0",
+  "description": "Bulk downlaod image from picz",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^19.4.1",
+    "request": "^2.88.2"
+  }
+}
